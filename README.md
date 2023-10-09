@@ -35,21 +35,21 @@ Untitled Calculator App: An experimental calculator that provides a sensory expe
 ### 🗄️ Past Projects
 
 **Multi-Budget:** A streamlined budgeting app designed to present everything you need on one screen. 💵
-iPhone, Apple Watch
+(iPhone, Apple Watch)
 
 **Inside Voice (1&2):** A noise-monitoring app designed for teachers and parents. 📣
-iPhone, iPad
+(iPhone, iPad)
 
 **Let's Animate:** An educational animation tool. 🎞
-iPhone, iPad
+(iPhone, iPad)
 
 **Brief Designs:** A design brief generator app. 📝
-iPhone, iPad
+(iPhone, iPad)
 
 ## 📫 How to Reach Me
 
-LinkedIn: https://www.linkedin.com/in/lespereric/
-Email: lespereric@gmail.com
-Behance: https://www.behance.net/LesperEric
-Facebook: https://www.facebook.com/atticlights
+- LinkedIn: https://www.linkedin.com/in/lespereric/
+- Email: lespereric@gmail.com
+- Behance: https://www.behance.net/LesperEric
+- Facebook: https://www.facebook.com/atticlights
 
